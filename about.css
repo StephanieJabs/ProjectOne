@@ -1,7 +1,6 @@
-* {
-    border: 2px solid red;
-}
 .inverse-section {
+    display: flex;
+    align-content: center;
     color:whitesmoke;
     background-color: darkslategray;
 }
