@@ -1,3 +1,12 @@
-.section-one {
-    color:blue;
+.inverse-section {
+    color:whitesmoke;
+    background-color: darkslategray;
+}
+.light-section {
+    color: black;
+    background-color: lightblue;
+}
+.quote-section {
+    color: darkslategray;
+    background-color: lightslategray;
 }
