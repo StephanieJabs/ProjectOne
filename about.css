@@ -1,6 +1,9 @@
 html {
     background-color: dimgray;
 }
+.flex-container div {
+    flex: 1
+}
 .flex-container .three {
     color: lightsteelblue;
 }
