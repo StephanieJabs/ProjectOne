@@ -2,7 +2,7 @@
     display:flex;
 }
 .flex-container div {
-    background: lightgray;
+    background: rgb(192, 104, 104);
     border: 10px solid black;
     height: 20px;
     flex: 1;
