@@ -1,6 +1,8 @@
 .inverse-section {
     display: flex;
     align-content: center;
+    flex-direction: column;
+    justify-content: right;
     color:whitesmoke;
     background-color: darkslategray;
 }
