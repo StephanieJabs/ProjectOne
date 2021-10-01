@@ -11,6 +11,14 @@
     background-color: #e09f3e;
 }
 
+.section-one-two {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: left;
+    height: 400px;
+    background-color: #e09f3e;
+}
 .light-section {
     color: black;
     background-color: lightblue;
