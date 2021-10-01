@@ -12,3 +12,12 @@ div {color: darkslateblue;}
 .list {
     background-color: skyblue;
     text-align: left;}
+.flex-container {
+    display:flex;
+}
+.flex-container div {
+    background: lightgray;
+    border: 2px black;
+    height: 20px;
+    flex: 1;
+}
