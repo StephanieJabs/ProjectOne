@@ -17,7 +17,7 @@ div {color: darkslateblue;}
 }
 .flex-container div {
     background: lightgray;
-    border: 2px black;
+    border: 10px black;
     height: 20px;
     flex: 1;
 }
