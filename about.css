@@ -1,10 +1,14 @@
-.inverse-section {
+.section-one {
     display: flex;
     align-content: center;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: right;
     color:whitesmoke;
     background-color: darkslategray;
+}
+.section-one-a {
+    align-content: space-around;
+    flex-direction: column;
 }
 .light-section {
     color: black;
