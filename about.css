@@ -2,6 +2,6 @@
 .flex-container div {
     background: deepskyblue;
     border: 4px solid darkslategray;
-    height: auto;
+    height: 100px;
     flex: auto;
 }
