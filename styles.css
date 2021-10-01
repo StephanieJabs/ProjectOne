@@ -1,0 +1,10 @@
+html{
+    background-color: mistyrose;
+color: darkslategray;
+font-size: 24pt;
+text-align: center;
+}
+div {color: darkslateblue;}
+.alert-text {
+    color:darkslateblue;
+  }
