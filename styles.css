@@ -2,7 +2,7 @@ html{
     background-color: mistyrose;
 color: darkslategray;
 font-size: 24pt;
-font-family:"Garamond";
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 text-align: center;
 }
 div {color: darkslateblue;}
@@ -11,4 +11,4 @@ div {color: darkslateblue;}
   }
 .list {
     background-color: skyblue;
-    text-align: right;}
+    text-align: left;}
