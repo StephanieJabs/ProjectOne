@@ -1,9 +1,8 @@
-html {
-    background-color: dimgray;
+.flex-container {
+    display:flex;
 }
 .flex-container div {
-    flex: 1
-}
-.flex-container .three {
-    color: lightsteelblue;
+    background: linen;
+    border: 4px solid darkslateblue;
+    height: auto;
 }
