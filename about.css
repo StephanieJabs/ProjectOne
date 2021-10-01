@@ -1,7 +1,7 @@
 .section-one {
     display: flex;
     align-content: center;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
     color:whitesmoke;
     background-color: darkslategray;
