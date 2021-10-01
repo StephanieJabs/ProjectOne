@@ -2,7 +2,7 @@
     display: flex;
     align-content: center;
     flex-direction: column;
-    justify-content: right;
+    justify-content: space-between;
     color:whitesmoke;
     background-color: darkslategray;
 }
