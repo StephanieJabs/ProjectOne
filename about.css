@@ -6,10 +6,7 @@
     color:whitesmoke;
     background-color: darkslategray;
 }
-.section-one-a {
-    align-content: space-around;
-    flex-direction: column;
-}
+
 .light-section {
     color: black;
     background-color: lightblue;
