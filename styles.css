@@ -9,4 +9,6 @@ div {color: darkslateblue;}
 .alert-text {
     color:darkslateblue;
   }
-.list {background-color: skyblue;}
+.list {
+    background-color: skyblue;
+    text-align: right;}
